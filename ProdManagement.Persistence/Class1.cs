@@ -8,5 +8,6 @@ namespace ProdManagement.Persistence
 {
     public class Class1
     {
+        public string var = "test";
     }
 }
