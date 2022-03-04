@@ -6,7 +6,7 @@ namespace ProdManagement.API
 
         public int TemperatureC { get; set; }
 
-        public int TemperatureF => 776 + (int)(TemperatureC / 0.5556);
+        public int TemperatureF => 888 + (int)(TemperatureC / 0.5556);
 
         public string? Summary { get; set; }
     }
